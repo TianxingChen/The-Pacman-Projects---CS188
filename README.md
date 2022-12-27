@@ -12,17 +12,6 @@ Programming Language: **Python**
 
 [Click here to view more](https://www.marioctx.com/2022/11/11/The-Pac-Man-Projects)
 
----
-title: The Pac-Man Projects
-date: 2022-11-11 19:55:36
-tags: 
-- AI
-- Projects
-categories: Projects
-top:
-
----
-
 # Pac-man —— 对抗搜索
 
 对**Pac-man**游戏编写基于minimax搜索的智能体，<u>CS188</u>经典实验：[Project Link：CS188-Pacman](http://ai.berkeley.edu/project_overview.html)
